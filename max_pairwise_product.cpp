@@ -80,7 +80,7 @@ int main()
         cin >> numbers[i];
     }
 
-    // cout << MaxPairwiseProduct(numbers) << "\n";
+    cout << MaxPairwiseProduct(numbers) << "\n";
     cout << MaxPairwiseProductFast(numbers) << "\n";
     return 0;
 }
