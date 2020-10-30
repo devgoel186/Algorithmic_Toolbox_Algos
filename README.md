@@ -9,3 +9,5 @@ Solutions for DSA with implementations of stress-testing for Algorithmic Toolbox
 * Fibonacci last digit - Naive and Fast
 * GCD - Naive and Fast (with Stress Test)
 * LCM - Naive and Fast (with Stress Test)
+* Money Change - Fast
+* Car Fuelling - Fast
