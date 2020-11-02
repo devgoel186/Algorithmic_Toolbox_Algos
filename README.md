@@ -13,6 +13,7 @@ Solutions for DSA with implementations of stress-testing for Algorithmic Toolbox
 * **Maximum Loot (Classical Fractional Knapsack)** - Fast
 * **Binary Search & Linear Search** - Naive and Fast
 * **Majority Element** - Fast (**O(nlogn)**)
+* **RandomizedQuickSort** - Fast, implemented using Random Pivot Element and Three-way Partition (**O(nlogn) on average**)
 
 ### EXTRAS
 
