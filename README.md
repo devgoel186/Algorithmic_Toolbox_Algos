@@ -2,7 +2,7 @@
 
 Solutions for DSA with implementations of stress-testing for Algorithmic Toolbox.
 
-## Contents
+## CONTENTS
 
 * **Max Pairwise Product** - Naive and Fast (with Stress Test)
 * **nth Fibonnaci Number** - Naive and Fast (with Stress Test)
@@ -14,6 +14,8 @@ Solutions for DSA with implementations of stress-testing for Algorithmic Toolbox
 * **Binary Search & Linear Search** - Naive and Fast
 * **Majority Element** - Fast (**O(nlogn)**)
 * **RandomizedQuickSort** - Fast, implemented using Random Pivot Element and Three-way Partition (**O(nlogn) on average**)
+* **Money Change Again** - Fast, Dynamic programming implementation
+* **Primitive Calculator** - Fast, Dynamic programming implementation (starter code included as **optimal_sequence** method)
 
 ### EXTRAS
 
