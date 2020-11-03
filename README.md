@@ -1,6 +1,6 @@
 # Algorithmic_Toolbox_Algos
 
-Solutions for DSA with implementations of stress-testing for Algorithmic Toolbox.
+**Solutions for DSA with implementations of stress-testing for Algorithmic Toolbox.**
 
 ## CONTENTS
 
@@ -22,3 +22,7 @@ Solutions for DSA with implementations of stress-testing for Algorithmic Toolbox
 * #### SORTING ALGOS
 
     1. Merge Sort
+
+* ### TIPS & TRICKS
+
+    1. Maximum Values for a variable ('inf' and 'neg inf')
