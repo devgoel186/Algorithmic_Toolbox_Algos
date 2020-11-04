@@ -16,6 +16,7 @@
 * **RandomizedQuickSort** - Fast, implemented using Random Pivot Element and Three-way Partition (**O(nlogn) on average**)
 * **Money Change Again** - Fast, Dynamic programming implementation
 * **Primitive Calculator** - Fast, Dynamic programming implementation (starter code included as **optimal_sequence** method)
+* **Edit Distance Problem** - Fast, Dynamic programming & backtracking pointers (code for optimal alignment grid included)
 
 ### EXTRAS
 
