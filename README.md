@@ -27,3 +27,4 @@
 * ### TIPS & TRICKS
 
     1. Maximum Values for a variable ('inf' and 'neg inf')
+    2. 2-D Vectors (To read more: [GFG 2-D Vectors](https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/))
