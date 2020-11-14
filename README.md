@@ -17,6 +17,8 @@
 * **Money Change Again** - Fast, Dynamic programming implementation
 * **Primitive Calculator** - Fast, Dynamic programming implementation (starter code included as **optimal_sequence** method)
 * **Edit Distance Problem** - Fast, Dynamic programming & backtracking pointers (code for optimal alignment grid included)
+* **Maximum Gold** - Fast, Dynamic programming. Solution by grid formation (Code for checking grid output included)
+* **Maximum Value of Arithmetic Expression (Placing parentheses)** - Fast, Dynamic programming. Solution by grid formation (Code for checking grid output included)
 
 ### EXTRAS
 
