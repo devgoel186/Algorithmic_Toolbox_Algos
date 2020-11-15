@@ -30,3 +30,7 @@
 
     1. Maximum Values for a variable ('inf' and 'neg inf')
     2. 2-D Vectors (To read more: [GFG 2-D Vectors](https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/))
+
+--> **TO SEE OTHER COURSES AND THEIR SOLUTIONS, CLICK ON ONE OF THE LINKS BELOW**
+
+* **DATA STRUCTURES** - [Data Structures](https://github.com/devgoel186/Data_Structures)
