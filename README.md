@@ -32,9 +32,12 @@
     2. 2-D Vectors (To read more: [GFG 2-D Vectors](https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/))
 
 --> **TO SEE OTHER COURSES AND THEIR SOLUTIONS, CLICK ON ONE OF THE LINKS BELOW**
+
 * **DATA STRUCTURES** - [Data Structures](https://github.com/devgoel186/Data_Structures)
 
+
 --> **FOR A DEEP DIVE INTO DS ALGOS, AND FOR A THOROUGH INTRO TO COMPETITIVE PROGRAMMING, CHECK OUT THE LINKS BELOW**
+
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 * [TopCoder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
 * [CodeChef DSA Learning Series](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
